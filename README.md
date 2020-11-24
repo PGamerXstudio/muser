@@ -1,2 +1,1 @@
-# muser
-Muser source code and Guide
+# Muser - Revolutionary Music bot
