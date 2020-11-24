@@ -21,3 +21,9 @@
 In case you got a temporary fix to an issue but you know many others will face it then you can create a new issue on [Github Issues](https://github.com/PGamerXstudio/muser/issues/new).     
 **Note : Github Issues will take time to be answered**
 
+# Self Hosting
+You can host bot on your own without any problem 
+First clone The repo : `git clone https://github.com/PGamerXstudio/muser.git "muser"`
+Second enter the folder : `cd muser && cd source-code` 
+Third install npm packages : `npm install`
+Fourth : Put your token in index.js and run `node .`
