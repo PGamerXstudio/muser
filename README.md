@@ -10,7 +10,7 @@
 
 ## :gear: Setup Guide
  **1. Adding the bot -**  You can add bot By [Clicking Here](https://discord.com/oauth2/authorize?client_id=763418289689985035&scope=bot&permissions=37084480)    
- **2. Double Checking Permissions -** Make sure bot has following permissions [These Permissions here](https://i.imgur.com/bMzH9Re.png)    
+ **2. Double Checking Permissions -** Make sure bot has following permissions [These Permissions here](https://imgur.com/a/xjANYLt)    
  **3. Changing prefix (Optional) -** The prefix of Bot is `.` by default. But you can change it using `.prefix`
 
 ## :x: Errors
