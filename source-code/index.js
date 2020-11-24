@@ -466,4 +466,4 @@ if(command === "skip"){
     catchErr(err,message)
   }
 })
-client.login("NzYzNDE4Mjg5Njg5OTg1MDM1.X33arw.HaO0K8Rid9Pq95Sx-jwQ7KRqE4c")
+client.login(config.token)
